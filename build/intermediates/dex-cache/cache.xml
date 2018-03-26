@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/James/StudioProjects/MPI_WorkingCopy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/James/StudioProjects/MPI_WorkingCopy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb01ad1a4ea2fd2c8d9ec7d0d526df880faf3460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/James/StudioProjects/MPI_WorkingCopy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b13a6df23b95cf5780421e36d815b2b7d953c191">
+        <dex dex="/Users/James/StudioProjects/MPI_WorkingCopy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29d3099d47d9bf6edf604eab068aa78b9ae9ce42/classes.dex" />
+    </item>
+
+</items>
